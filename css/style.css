@@ -7,6 +7,7 @@
 
 /* Utilidades */
 @import url(./utilidades/componentes.css);
+@import url(./utilidades/formulario.css);
 
 /* Home */
 @import url(./home/introducao.css);
@@ -26,6 +27,13 @@
 @import url(./seguros/perguntas.css);
 @import url(./seguros/vantagens.css);
 @import url(./bicicleta/seguro.css);
+
+/* Contato */
+@import url(./contato/contato.css);
+@import url(./contato/lojas.css);
+
+/* Orçamento */
+@import url(./orcamento/orcamento.css);
 
 /* Termos */
 @import url(./termos/termos.css);
